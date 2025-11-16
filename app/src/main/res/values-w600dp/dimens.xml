@@ -1,0 +1,29 @@
+<resources>
+	<dimen name="fragment_horizontal_margin">48dp</dimen>
+	<dimen name="fab_margin">48dp</dimen>
+	<dimen name="item_transform_image_length">142dp</dimen>
+	
+	<dimen name="text_h1">48sp</dimen>
+	<dimen name="text_h2">40sp</dimen>
+	<dimen name="text_h3">32sp</dimen>
+	<dimen name="text_h4">28sp</dimen>
+	<dimen name="text_h5">24sp</dimen>
+	<dimen name="text_h6">20sp</dimen>
+	
+	<dimen name="text_subtitle_1">18sp</dimen>
+	<dimen name="text_subtitle_2">16sp</dimen>
+	
+	<dimen name="text_body_1">16sp</dimen>
+	<dimen name="text_body_2">14sp</dimen>
+	
+	<dimen name="caption">12sp</dimen>
+	<dimen name="overline">11sp</dimen>
+	
+	<dimen name="digit">20sp</dimen>
+	
+	<dimen name="button">14sp</dimen>
+	
+	<dimen name="grid_width">48dp</dimen>
+	<dimen name="gutter_width">24dp</dimen>
+	<dimen name="left_right_margin">24dp</dimen>
+</resources>
